@@ -1,6 +1,6 @@
 <nav class="navbar navbar-expand-lg navbar-scroll shadow-0" style="background-color: #ffede7;">
     <div class="container">
-      <a class="navbar-brand" href="#">our jewelry</a>
+      <a class="navbar-brand" href="#">HAIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIy</a>
       <button class="navbar-toggler ps-0" type="button" data-mdb-collapse-init data-mdb-target="#navbarExample01"
         aria-controls="navbarExample01" aria-expanded="false" aria-label="Toggle navigation">
         <span class="d-flex justify-content-start align-items-center">
